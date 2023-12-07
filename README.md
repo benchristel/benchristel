@@ -3,8 +3,9 @@ I spend a lot of time trying out different approaches to writing code and thinki
 
 A few highlights:
 
-- I blog (very) occasionally at [benchristel.github.io](https://benchristel.github.io).
-- More often, I post thoughts on [my bliki](https://github.com/benchristel/benchristel.github.io/wiki).
+- I write [Ben's Guide to Software Development](https://bensguide.substack.com/) on Substack.
+- I also maintain [a personal wiki](https://github.com/benchristel/benchristel.github.io/wiki).
+- I used to blog at [benchristel.github.io](https://benchristel.github.io).
 - [Taste](https://github.com/benchristel/taste) is my JavaScript test framework, optimized for simplicity and speed.
 - In 2022, I started using Linux Mint as my daily driver. Of course I had to [customize](https://github.com/stars/benchristel/lists/linux) it, and those efforts turned into a nostalgia-driven project to recreate the look and feel of Mac OS X 10.6. The whole (very WIP) ensemble is available as [LynX](https://github.com/benchristel/LynX).
 - [Culture Machine](https://benchristel.github.io/tv/) layers the UX of TV and radio atop YouTube. It works via a deterministic shuffling algorithm and a declarative convergent feedback loop to keep the player in sync with the "broadcasting" schedule.

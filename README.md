@@ -3,7 +3,7 @@ I spend a lot of time trying out different approaches to writing code and thinki
 
 A few highlights:
 
-- I write [Ben's Guide to Software Development](https://bensguide.substack.com/) on Substack.
+- I am writing a book on software development titled [_Process to Processes_](https://benchristel.github.io/process-to-processes/). I post new chapters weekly to [my Substack newsletter](https://bensguide.substack.com/).
 - I also maintain [a personal wiki](https://github.com/benchristel/benchristel.github.io/wiki).
 - I used to blog at [benchristel.github.io](https://benchristel.github.io).
 - [Taste](https://github.com/benchristel/taste) is my JavaScript test framework, optimized for simplicity and speed.
